@@ -1,9 +1,0 @@
-<!DOCTYPE html> 
-<html>
-	<head>
-	<title>proyecto claseraro</title>
-	</head>
-	<body>
-		<h1>coca</h1>
-	</body>
-</html> 
